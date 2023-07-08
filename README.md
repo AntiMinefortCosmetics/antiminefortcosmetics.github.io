@@ -1,2 +1,2 @@
-# antiminefortcosmetics.github.io
-Website for AntiMinefortCosmetics
+A simple landing page for AMC.
+Made by Eminence5070
